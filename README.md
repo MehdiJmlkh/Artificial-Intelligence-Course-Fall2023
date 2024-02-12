@@ -1,4 +1,12 @@
-# Artificial-Intelligence-Course-Fall 2024
+# Artificial-Intelligence-Course-Fall 2023
+
+
+- [CA1 - Genetic Algorithm (Curve Fitting)](#ca1-genetic-algorithm-curve-fitting)
+- [CA2 - Reinforcement Learning (Frozen Lake & Taxi)](#ca2-reinforcement-learning-frozen-lake--taxi)
+- [CA3 - Hidden Markov Model (Music Genre Classification)](#ca3-hidden-markov-model-music-genre-classification)
+- [CA4 - Machine Learning (Regression & Classification)](#ca4-machine-learning-regression--classification)
+- [CA5 - Convolutional Neural Networks (Image Classification)](#ca5-convolutional-neural-networks-image-classification)
+- [CA6 - Clustering (Text Clustering)](#ca6-clustering-text-clustering)
 
 ## [CA1](https://github.com/MehdiJmlkh/AI/tree/3e74ab508dcfb70de1999a17ade36ef7271bb625/CA1). Genetic Algorithm ([Curve Fitting](https://en.wikipedia.org/wiki/Curve_fitting))
 
