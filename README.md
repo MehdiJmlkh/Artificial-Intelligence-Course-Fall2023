@@ -11,12 +11,10 @@
 ## [CA1](https://github.com/MehdiJmlkh/AI/tree/3e74ab508dcfb70de1999a17ade36ef7271bb625/CA1). Genetic Algorithm ([Curve Fitting](https://en.wikipedia.org/wiki/Curve_fitting))
 
 In this project, we are dealing with the problem of curve fitting. In this problem, we need to determine the coefficients of a polynomial expression based on the given points. For example consider the following given points:
-$$
-a = [0,\space 1] \quad
+$$a = [0,\space 1] \quad
 b = [1, \space 0] \quad
 c = [2, \space -5] \quad
-d = [-1, \space -8]
-$$
+d = [-1, \space -8]$$
 These four points lie on the curve of the equation $y = 1 + 3x - 5x^{2} + x^{3}$. 
 
 ![Sample points](CA1/assets/sample_points.png)
